@@ -1,0 +1,5 @@
+int b = main(0,2);
+
+int main(int a,int b){
+   
+}
